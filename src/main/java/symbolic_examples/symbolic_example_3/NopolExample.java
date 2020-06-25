@@ -11,7 +11,7 @@ public class NopolExample {
 		if ( tmp != 0 ){ // Fix : tmp == 0
 			return true;
 		}
-		return false;
+		0;
 		
 	}
 	
